@@ -1,0 +1,23 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - Pod_A (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - Pod_A (from `../`)
+
+EXTERNAL SOURCES:
+  Pod_A:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  Pod_A: 144056504c3be4f463ca9c9f2642f6d78f62cf93
+
+PODFILE CHECKSUM: 8e8c7d2b6e82368ae63401e04b34ac59dbdcdfa8
+
+COCOAPODS: 1.2.0

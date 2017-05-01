@@ -1,0 +1,22 @@
+{
+  "name": "Pod_A",
+  "version": "0.1.0",
+  "summary": "A short description of Pod_A.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/YeebZ/Pod_A",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "YeebZ": "1"
+  },
+  "source": {
+    "git": "https://github.com/YeebZ/Pod_A.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Pod_A/Classes/**/*"
+}
